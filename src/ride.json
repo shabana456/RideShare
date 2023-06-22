@@ -1,0 +1,46 @@
+{
+  "rides": [
+    {
+      "tripId": "ID45678973",
+      "pickup": "location2",
+      "drop": "location3",
+      "epoch": 1687268900026,
+      "id": 1
+    },
+    {
+      "tripId": "ID45676923",
+      "pickup": "location4",
+      "drop": "location1",
+      "epoch": 1687268993576,
+      "id": 2
+    },
+    {
+      "tripId": "ID48678923",
+      "pickup": "location3",
+      "drop": "location2",
+      "epoch": 1687282634654,
+      "id": 3
+    },
+    {
+      "tripId": "ID45678973",
+      "pickup": "location2",
+      "drop": "location4",
+      "epoch": 1687283651838,
+      "id": 4
+    },
+    {
+      "tripId": "ID48678923",
+      "pickup": "location3",
+      "drop": "location4",
+      "epoch": 1687285797073,
+      "id": 5
+    },
+    {
+      "tripId": "ID45678973",
+      "pickup": "location2",
+      "drop": "location4",
+      "epoch": 1687374957699,
+      "id": 6
+    }
+  ]
+}
